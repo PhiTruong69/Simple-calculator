@@ -10,8 +10,13 @@
       <img src="https://github.com/user-attachments/assets/26641423-68ad-4cc3-8b39-4052f88a7a14" width="500"><br>
       May tinh cua em !
     </td>
+      <td align="center">
+      <img src="https://github.com/user-attachments/assets/37849169-f713-46a8-8a49-c3509116b318" width="500"><br>
+      May tinh cua em !
+    </td>
   </tr>
 </table>
+
 
 
 <hr>
@@ -139,5 +144,6 @@ main.cpp
 <hr>
 
 <p>MIT License</p>
+
 
 
