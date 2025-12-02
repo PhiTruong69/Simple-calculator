@@ -4,8 +4,15 @@
 <strong>LCD I2C 16x2</strong> và hỗ trợ nhập biểu thức giống máy tính bỏ túi mini.</p>
 
 <p>Repo: <a href="https://github.com/PhiTruong69/Simple-calculator">https://github.com/PhiTruong69/Simple-calculator</a></p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/26641423-68ad-4cc3-8b39-4052f88a7a14" width="500"><br>
+      May tinh cua em !
+    </td>
+  </tr>
+</table>
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/26641423-68ad-4cc3-8b39-4052f88a7a14" />
 
 <hr>
 
@@ -132,4 +139,5 @@ main.cpp
 <hr>
 
 <p>MIT License</p>
+
 
